@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LaberintoGUI
+comment1.params=matriz
+comment1.target=LaberintoGUI(Laberinto)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=java.awt.Dimension\ getPreferredSize()
+comment4.params=
+comment4.target=void\ setMatrizLaberinto()
+comment5.params=posX\ posY
+comment5.target=void\ moverJugador(int,\ int)
+comment6.params=
+comment6.target=void\ guardarDatos()
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=11

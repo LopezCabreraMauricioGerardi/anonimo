@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment0.text=\r\n\r\n\ @author\ LUIS-PC\r\n
+comment1.params=
+comment1.target=java.lang.String[][]\ PrimerNivel()
+comment2.params=matriz
+comment2.target=int\ filaasterico(java.lang.String[][])
+comment3.params=matriz
+comment3.target=int\ columasterico(java.lang.String[][])
+comment4.params=matriz
+comment4.target=int[]\ posX(java.lang.String[][])
+numComments=5
